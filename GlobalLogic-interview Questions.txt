@@ -1,0 +1,84 @@
+https://chatgpt.com/share/67c7cdd7-2b84-8003-a7ff-3e92ec3e09bd
+
+
+Tell us about youself in breif
+what are runlevels in linux
+what is fstab
+what is suid,guid,stickybit
+what is selinux
+how to check acl
+explain pipeline you are working on
+explain architechture of docker and virtualization
+how to write containerfile
+tell me any 5 commands of docker
+expalin diffrence between entrypoint and CMD
+which is more used entrypoint or CMD
+what is docker compose
+explain k8s architecture
+expalin services in k8s
+what does schedulaer do in k8s
+what is rbac in k8s
+what is valut
+what is Azure loadbalancer application and network loadbalancer
+explain tcp and udp 
+what is ansible handler
+if i have notified handler 5 times how many times handler will be called?
+if i 100 servers and i want to do multiple task on them will it do it sequentially on all server or will it be finish one playbook first on one server and move to second and so on
+have you worked on vaults in azure
+what is clusterrolebinding 
+whats VPA and HPA in k8s
+how to create LVM of 30 GB 
+tell me playbook syntax to install http package
+if i want to mount permananatly but without reboot how i can do it
+what is nice value
+if i want to check port open on remote server command to check
+how to sort processes as per their usages
+if i have 4 cpu core and load avearge is showing 2 what does it mean
+how to check disk usages
+how to configure ansible have u configured in prod
+what is RestApi and Restless api
+how to configure reverse proxy
+what is ssl tell me what happens in background when you hit https how it will ensure that this site is secure?
+which algorithm is used in openssl
+tell any services you know in azure
+how to pull images from insecure repo
+how to install packages
+diffrenece between rpm and yum
+difference between su and sudo
+what is zombie processeshow to sort processes according to there use of memory  
+what are possible reason if sever suddenly goes down
+how to configure reverse proxy in apache
+if i have 3 pods running where only one pod has port 3000 open so when request comes will it check on all pods or only pod with open port
+what is site to site vpn peering
+if i want to ping one ip in ansible playbook is it neccesary to gather fact
+
+
+=====================================================Second Round======================================
+Tell me about your day today activities in your current organization
+Command to check nfs mount
+What is reverse proxy have you configured it
+How to configure load balancer 
+Different between application and network load balancer
+What is suid,stickybit give me example of both
+What is ssl certificates and tell me process to request CA signed certificate
+If I have 40 servers and there are 2 subnets on which what can I configure to divert traffic  effectively nacl or application load balancer
+How to reduce time to run ansible playbook
+What is serial in ansible
+Difference between tomcat and tomee
+Tell any troubleshooting u did for which you got appreciation
+Tell any script u have written in your current organization
+What is docker file
+Tell any docker file u have written
+Why we need network policy in k8s
+What is network group policy in aws
+If I am getting 502 bad gateway error how to troubleshoot
+If we have one ansible.cfg next to your playbook,one at home directory and one at /etc/ansible which will be considered by the system
+Tell adhoc command to see hostname of 100 servers
+If I don't want to run playbook and want to check quickly any info from server how can I achieve it
+I want to run playbook on any specific server only not all mentioned in inventory how to do that
+I am not able to create any file into one specific folder what could be the reason
+Steps to reduce lvm size
+tell me playbook syntax to install httpd service
+command to update kernel packages
+
+
